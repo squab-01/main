@@ -1,2 +1,2 @@
 # main
-Illustrates chaining promises from squab-01
+Illustrates chaining promises by squab-01
